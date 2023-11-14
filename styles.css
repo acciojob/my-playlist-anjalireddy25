@@ -3,9 +3,10 @@ body{
 	font-family:Arial,sans-serif;
 	background-color:rgb(204,204,204);
 }
-h1{
+.heading{
 	text-align:center;
 }
+
 ul{
 	list-style-type:none;
 	border:1px solid;
@@ -15,12 +16,6 @@ ul{
 }
 a{
 	text-decoration:none;
-}
-h2{
-	text-align:center;
-}
-h3{
-	text-align:center;
 }
 .player_container{
 	background-color:rgb(255,255,255);
@@ -33,10 +28,10 @@ h3{
 	margin-right:auto;
 	
 }
-div.player_one{
+.player_one{
 	background-color:rgb(255,255,255);
 }
-div.player_two{
+.player_two{
 	background-color:rgb(255,255,255);
 }
 
